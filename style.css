@@ -1,0 +1,94 @@
+body{
+    background-color: #F3FDE8;
+
+}
+.nav{
+    padding-left: 0%;
+    margin-left: 0%;
+    padding-top: 0%;
+}
+.nav-item{
+    font-weight: 400;
+    font-size: larger;
+    padding-top: 0%;
+}
+.nav-item:hover{
+    font-weight: 500;
+}
+.jumbo{
+    background-color: #F3FDE8;
+    padding-top: 70px;
+}
+.bi-logo{
+    padding-bottom: 30px;
+}
+.name{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #272829;
+}
+.jumbo{
+    padding-bottom: 180px;
+    min-height: 100%;
+}
+.blue{
+    color: rgb(0, 96, 255);
+}
+.red{
+    color: rgb(255, 20, 0);
+}
+.yellow{
+    color: rgb(255,190,0);
+}
+.green{
+    color: rgb(0,153,28);
+}
+.lead{
+    font-weight:400;
+}
+.carousel-item{
+    /* height: 500px; */
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+}
+.ci2{
+    height: 550px;
+}
+.card-img-top{
+    height: 200px;
+}
+.cards{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.core{
+    text-align: center;
+    padding-top: 50px;
+}
+.founder{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+.con-im{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+form{
+    
+    padding-left: 200px;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    padding-right: 200px;
+}
